@@ -1,0 +1,30 @@
+h1 {
+    color:blueviolet;
+    font-size: 80px;
+    text-align: center;
+}
+
+h2{
+    color:blue;
+    font-size: 20px;
+    text-align: left;
+}
+
+
+.tttboard{
+    border-collapse:collapse;
+    font-size: 32px;
+}
+.light,.dark{
+    width: 80px;
+    height: 80px;
+    padding : 0px;
+    margin : 0px;
+    text-align: center;
+}
+.light {
+    background: rgb(255, 236, 203);
+}
+.dark {
+    background: rgb(0, 0, 255 );
+}
